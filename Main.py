@@ -128,7 +128,6 @@ for index in range(length_of_text):
     # Write code here
     solution.push_character(text[index])
     solution.enqueue_character(text[index])
-
 is_palindrome = True
 '''
 pop the top character from stack
